@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572844916 source:f:\pr01\p1c\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<conio.h>
+	<stdio.h>
+
